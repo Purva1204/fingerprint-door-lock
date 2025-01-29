@@ -1,0 +1,20 @@
+{
+  "name": "fingerprint_auth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purva1204/fingerprint-door-lock/issues"
+  },
+  "homepage": "https://github.com/Purva1204/fingerprint-door-lock#readme",
+  "description": "A Wi-Fi based door lock system with fingerprint authentication"
+}
