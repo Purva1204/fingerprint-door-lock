@@ -16,5 +16,8 @@
     "url": "https://github.com/Purva1204/fingerprint-door-lock/issues"
   },
   "homepage": "https://github.com/Purva1204/fingerprint-door-lock#readme",
-  "description": "A Wi-Fi based door lock system with fingerprint authentication"
+  "description": "A Wi-Fi based door lock system with fingerprint authentication",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
